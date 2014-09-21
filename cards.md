@@ -41,7 +41,7 @@ Each card in the trump suit also has a name. In talon, trump cards are usually c
 
 The zero trump is the fool, used as the excuse in Talon. It is an honor.
 
-Minor trumps:
+Trump names.
 
 1. The Magician (honor)
 2. The High Priestess
@@ -58,9 +58,6 @@ Minor trumps:
 13. Death
 14. Temperance
 15. The Devil
-
-Major trumps:
-
 16. The Tower
 17. The Star
 18. The Moon
