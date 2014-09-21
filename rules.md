@@ -10,7 +10,7 @@ Game-related table-talk is discouraged, but banter at the table is encouraged. I
 Dealing
 -------
 
-Before the first hand, randomly pick who will deal first. It is customary for each player to cut the deck to decide who deals. The highest trump gets to deal. If there are no trumps, the highest card. The tie-breaker is suit. Swords are first, then cups, then pentacles, then wands.
+Before the first hand, randomly pick who will deal first. It is customary for each player to cut the deck to decide who deals. The highest trump gets to deal. If there are no trumps, the highest card deals. The tie-breaker is suit. Swords are first, then cups, then pentacles, then wands.
 
 The first dealer shuffles the deck thoroughly then passes the deck to their right. That player cuts or taps the deck then passes it back. Cards are dealt widdershins, starting with the player to the dealer's left. Cards are dealt to each player in packets. If there are four or five players, the packets are of three cards. If there are three players, packets are four cards.
 
@@ -52,7 +52,7 @@ Players bid to determine how much will be at stake for each game, and how diffic
 
 **Guard against the Talon** — This is the highest bid, a contract worth six times a take, and is more difficult than any of the previous bids. It is indicated with six tokens.
 
-After bidding, whoever had the last non-pass bid becomes the taker, everyone else is defending. In a five-player game the taker will have a partner, determined a little later. The taker is trying to accumulate a certain number of points by winning tricks. The defenders work together to prevent oppose the taker (and the taker's partner). The defenders share a score pile.
+After bidding, whoever had the last non-pass bid becomes the taker, everyone else is defending. In a five-player game the taker will have a partner, determined a little later. The taker is trying to accumulate a certain number of points by winning tricks. The defenders work together to oppose the taker (and the taker's partner). The defenders share a score pile.
 
 If every player chose to pass, the hand is mulliganned. 
 
@@ -66,7 +66,7 @@ After the bids, player may make certain claims to raise the stakes or otherwise 
 
 ### Misery
 
-A player whose hand contains either no trump cards or no court card or both, they may declare ‘misery’. If they do, each other player must immediately give the dealer ten points.
+A player whose hand contains either no trump cards or no court cards or both, they may declare ‘misery’. If they do, each other player must immediately give the caller ten points.
 
 
 ### Handful
@@ -91,9 +91,9 @@ If a player has no trumps except the the Magician (and they didn't call “a lit
 
 ### Slams
 
-The taker may call a slam. This call is a promise to take a certain number of tricks this hand. There a two types of slam: a grand slam and a small slam. A grand slam means taking every single trick. A small slam means taking every trick but three.
+The taker may call a slam. This call is a promise to take a certain number of tricks this hand. There a two types of slam: a grand slam and a little slam. A grand slam means taking every single trick. A little slam means taking every trick but three.
 
-A called grand slam is worth a 400-points bonus if the taker makes it, but costs a 200-point penalty if it is not achieved. A called small slam is worth a 300-point bonus if made, but costs a 150-point bonus if missed. 
+A called grand slam is worth a 400-points bonus if the taker makes it, but costs a 200-point penalty if it is not achieved. A called little slam is worth a 300-point bonus if made, but costs a 150-point bonus if missed. 
 
 A slam may also be made without being called, but their bonus is halved. The bonus from a slam is not multiplied according to the contract.
 
@@ -132,7 +132,7 @@ Continuing widdershins each player places a card face up on top of the previous 
 
 After each player has played one card in a trick the trick is won and placed on top of the winner's score pile, face down. The player who played the highest-numbered trump wins the trick. If there are no trumps, the highest card in the led suit wins.
 
-After the trick is one, players are permitted a moment to inspect which cards are player but must not change the order of the cards.
+After the trick is won, players are permitted a moment to inspect which cards are played but must not change the order of the cards.
 
 Whichever player won the last trick leads the next. Play continues this way until all card have been played.
 
@@ -194,11 +194,11 @@ There are 91 points in a hand, so for the defenders to win:
 
 After deciding who wins, determine how many points the hand was worth.
 
-The score starts at 25 points. Add the absolute value of the difference between the taker's score and the number of points needed to win, rounding up to a whole number. If there was a Magician's ending, add or subtract another ten. Multiply this sum as required by the contract, then add any handful or slam bonuses. This is the value of the hand.
+The score starts at 25 points. Add the absolute value of the difference between the taker's score and the number of points needed to win, rounding up to a whole number. If there was a Magician's ending, add or subtract another ten. Multiply this sum as required by the contract, then add any handful or slam bonuses or penalties. This is the value of the hand.
 
-If the taker won then the defenders must give the taker the value of the hand, divided evenly among them. If the defenders won then the taker must give the defenders the value of the hand, divided evenly among them. If the value does not divide evenly, remainder is ignored, reducing the size of the payment(s).
+If the taker won then each defender must give the taker the value of the hand. If the defenders won then the taker must give each defender the value of the hand.
 
-If the taker had a partner, the taker pays or receives double this amount, while the partner pays or receives the amount specified. This means that a hand where the taker has a partner is effectively worth triple to the defenders.
+If the taker had a partner, the taker pays or receives double this amount, while the partner pays or receives the amount specified. This means that a hand where the taker has a partner is worth triple to the defenders.
 
 
 ### Recording points
